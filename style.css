@@ -1,0 +1,33 @@
+{
+    margin: 0px;
+}
+div{
+    margin: 1px;
+}
+.menubar{
+    border: 1px solid rgb(204, 147, 147);
+    border-radius: 4px;
+    background-color: rgb(219, 103, 213);
+}
+.links{
+    display: inline;
+    font-family: 'Gabarito';
+    text-transform:capitalize;
+    font-weight:100;
+    opacity: .6;
+    transition: 1s;
+}
+.links:hover{
+    opacity: 1;
+    transition: 1s;
+    font-size:x-small;
+}
+#linksgroup{
+    text-align: right;
+}
+.productname{
+    display: inline-block;
+}
+
+
+
