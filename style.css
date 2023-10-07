@@ -162,8 +162,10 @@ body{
     width: 250px; 
     height: 200px; 
     border: 1px solid #ccc;
+    background-color: #FF8080;
 }
 .third p{
     color: #3F1D38;
     margin-left: 10px;
+    background-color: #FFCF96;
 }
